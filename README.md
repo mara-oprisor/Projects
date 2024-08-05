@@ -11,3 +11,12 @@ My name is Mara Oprisor, and I am a third-year student at the Technical Universi
 ### School Projects
 - **Polynomial Calculator**: A project that involves performing arithmetic operations on polynomials.
 - **Queue Management Application**: A system designed to manage and optimize queues in various settings.
+- **Order Management Application**: An application to handle and track orders efficiently.
+
+## Technologies
+- Java
+- SQL
+
+## Contact
+- Email:mailto:mara.oprisor@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mara-oprisor/
