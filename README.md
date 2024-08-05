@@ -18,5 +18,5 @@ My name is Mara Oprisor, and I am a third-year student at the Technical Universi
 - SQL
 
 ## Contact
-- Email:mailto:mara.oprisor@gmail.com
+- Email: mara.oprisor@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mara-oprisor/
