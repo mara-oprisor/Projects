@@ -7,7 +7,7 @@ My name is Mara Oprisor and I am a third-year student at the Technical Universit
 
 ### Personal Projects
 - **Dream Travel**: An application for a travel agency.
-                    Personal Projects/DreamTravel
+                    -[Personal Projects/DreamTravel](https://github.com/mara-oprisor/Projects/tree/main/Personal%20Projects/DreamTravel)
 
 ### School Projects
 - **Polynomial Calculator**: A project that involves performing arithmetic operations on polynomials.
