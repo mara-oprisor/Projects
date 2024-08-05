@@ -6,12 +6,12 @@ My name is Mara Oprisor and I am a third-year student at the Technical Universit
 ## Projects
 
 ### Personal Projects
-- **Dream Travel**: An application for a travel agency. ([Personal Projects/DreamTravel](https://github.com/mara-oprisor/Projects/tree/main/Personal%20Projects/DreamTravel)
+- **Dream Travel**: An application for a travel agency. ([Personal Projects/DreamTravel](https://github.com/mara-oprisor/Projects/tree/main/Personal%20Projects/DreamTravel))
 
 ### School Projects
-- **Polynomial Calculator**: A project that involves performing arithmetic operations on polynomials. ([School Projects/Polynomial Calculator]https://github.com/mara-oprisor/Projects/tree/main/School%20Projects/Polynomial%20Calculator)
-- **Queue Management Application**: A system designed to manage and optimize queues in various settings. ([School Projects/Queue Management Application]https://github.com/mara-oprisor/Projects/tree/main/School%20Projects/Queue%20Management%20Application)
-- **Order Management Application**: An application to handle and track orders efficiently.([School Projects/Orders Management]https://github.com/mara-oprisor/Projects/tree/main/School%20Projects/Orders%20Management)
+- **Polynomial Calculator**: A project that involves performing arithmetic operations on polynomials. ([School Projects/Polynomial Calculator](https://github.com/mara-oprisor/Projects/tree/main/School%20Projects/Polynomial%20Calculator)}
+- **Queue Management Application**: A system designed to manage and optimize queues in various settings. ([School Projects/Queue Management Application](https://github.com/mara-oprisor/Projects/tree/main/School%20Projects/Queue%20Management%20Application))
+- **Order Management Application**: An application to handle and track orders efficiently.([School Projects/Orders Management](https://github.com/mara-oprisor/Projects/tree/main/School%20Projects/Orders%20Management))
 
 ## Technologies
 - Java
