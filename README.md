@@ -1,7 +1,7 @@
 # README
 
 ## General Info
-My name is Mara Oprisor, and I am a third-year student at the Technical University of Cluj-Napoca. I am studying Computer Engineering. This repository contains both my personal and my school projects.
+My name is Mara Oprisor and I am a third-year student at the Technical University of Cluj-Napoca. I am studying Computer Engineering. This repository contains both my personal and my school projects.
 
 ## Projects
 
