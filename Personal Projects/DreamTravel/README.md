@@ -5,6 +5,7 @@ For this project, I have created a Desktop Application which allows the user to 
 ## How to use the application
 There are 2 types of users who can use the application: clients and admins. Each of them has a different menu and can perform different actions through this app. Initially all people are users, but using inheritance, they are divided into clients and admins, by choosing the type of user when logging in.
 The page which opens when the user opens the application, lets him choose whether he wants to sign up or login. Only clients can sign up, the account of the admins must be created from the database, because the admin’s account is associated with a hotel. When the client signs up, if the username chosen was already used before, an error will occur and user has to choose another username or go to the login page. Also, the password must be at least 5 characters long. When logging in, if the credentials don’t match, an error message will appear on the screen.
+
 ### Client
 The client menu includes 5 buttons, each of them allows him to perform a different action. 
 1.	The user can view his details (read them from the database), can delete them, can insert informations if there are none in the database or he can update the already existing ones. Age must be an integer, otherwise an exception is thrown. If there is no information about the user in the database, when clicking on the “View Details button” all fields will remain empty except for the age one which will contain a 0.
@@ -19,3 +20,8 @@ The admin menu contains 3 buttons, each of them allows him to perform a differen
 2.	The admin can see all the bookings that were made to his hotel (that is the reason why each admin has associated a hotel).
 3.	The admin can see all the reviews that were made to his hotel.
 To exit the application the user must click the exit button “X”. 
+
+## Technologies
+* Java
+* PostgreSQL
+* JavaSwing (for the GUI)
