@@ -7,6 +7,7 @@ My name is Mara Oprisor and I am a third-year student at the Technical Universit
 
 ### Personal Projects
 - **Dream Travel**: An application for a travel agency. ([Personal Projects/DreamTravel](https://github.com/mara-oprisor/Projects/tree/main/Personal%20Projects/DreamTravel))
+- **Flash Cards**: An application to learn the most used words in French. ([Personal Projects/FlashCards_French_to_English](https://github.com/mara-oprisor/Projects/tree/main/Personal%20Projects/FlashCards_French_to_English))
 
 ### School Projects
 - **Polynomial Calculator**: A project that involves performing arithmetic operations on polynomials. ([School Projects/Polynomial Calculator](https://github.com/mara-oprisor/Projects/tree/main/School%20Projects/Polynomial%20Calculator)}
